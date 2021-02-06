@@ -6,7 +6,7 @@ class config:
     SUDO_USERS = "1444482628" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/torlinkgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "http://815881406062-glepn95s3racfpstj1vie83j5g4tqu60.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_ID = "815881406062-glepn95s3racfpstj1vie83j5g4tqu60.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "t6NqFqhMTea8QW03ObYXj_ys"
 
 
