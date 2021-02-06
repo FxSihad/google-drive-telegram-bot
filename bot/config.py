@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1660500680:AAFekMafa6RurLDRtlSmiohaFPQBb3KpKdw"
+    APP_ID = "2847354"
+    API_HASH = "f3291505b2aea1d483a82c83085eefe6"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "1444482628" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/torlinkgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "http://815881406062-glepn95s3racfpstj1vie83j5g4tqu60.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "t6NqFqhMTea8QW03ObYXj_ys"
 
 
 class BotCommands:
