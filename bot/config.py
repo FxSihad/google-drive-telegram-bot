@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1660500680:AAFekMafa6RurLDRtlSmiohaFPQBb3KpKdw"
     APP_ID = "2847354"
     API_HASH = "f3291505b2aea1d483a82c83085eefe6"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://janppxpdgwayhb:e1bb36da6bd04285251ad5c835cc109964bf148a9e4cb395f0502c3890f3391d@ec2-52-6-178-202.compute-1.amazonaws.com:5432/d8pqtiqppb24pe"
     SUDO_USERS = "1444482628" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/torlinkgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
